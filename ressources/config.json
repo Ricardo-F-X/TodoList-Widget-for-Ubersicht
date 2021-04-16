@@ -1,0 +1,53 @@
+{
+    "apis":{
+        "OPEN_WEATHER": {
+            "key": "492708023d69f46e9bbe64b2f73e3db6",
+            "url_base": "http://api.openweathermap.org/data/2.5/weather?",
+            "url_icon": "http://openweathermap.org/img/wn/ICON_ID@2x.png",
+            "units": "metric",
+            "lang": "zh_cn",
+            "city": "qiqihar,CN",
+            "lat": "",
+            "long": ""
+        }
+    },
+    "styles":{
+        "backgroundColor": "#00005240",
+        "backgroundDay": "./TodoListWidget/pictures/backgrounds/day.png",
+        "backgroundSunrise": "./TodoListWidget/pictures/backgrounds/sunrise.png",
+        "backgroundSunset": "./TodoListWidget/pictures/backgrounds/sunset.png",
+        "activeColorSunRise": "#65E4DD",
+        "activeColorDay": "#2B91E3",
+        "activeColorSunSet": "#6A46A8"
+    },
+    "days":[
+        "周日",
+        "周一",
+        "周二",
+        "周三",
+        "周四",
+        "周五",
+        "周六"
+    ],
+    "months":[
+        "JAN",
+        "FEB",
+        "MAR",
+        "APR",
+        "MAY",
+        "JUN",
+        "JUL",
+        "AUG",
+        "SEP",
+        "OCT",
+        "NOV",
+        "DEC"
+    ],
+    "title": "Hello,",
+    "todo":{
+        "completedTaskTitle": "completed task",
+        "completedTasksTitle": "completed tasks",
+        "uncompletedTaskTitle": "ongoing task",
+        "uncompletedTasksTitle": "ongoing tasks"
+    }
+}
